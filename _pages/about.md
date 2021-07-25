@@ -22,4 +22,5 @@ My research interests are at the intersection of environmental, development, his
 
 I previously graduated with a MSc in Economics, and a BA in Social Sciences from SciencesPo Paris. In my free time I read history books and I play the Flute.
 
+
 You can download my cv [here](/assets/pdf/cv_jeanne.pdf).
