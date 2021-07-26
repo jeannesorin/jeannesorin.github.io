@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-# Research
+
 
 ## Working Papers
 
