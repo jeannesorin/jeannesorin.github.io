@@ -11,7 +11,7 @@ nav: true
 ## Working Papers
 
 
-##### [Pollution in Ugandan Cities: Do Managers Avoid it or Adapt in Place?](/assets/pdf/Pollution.pdf) 
+##### [Searching for Customers, Finding Pollution](/assets/pdf/Pollution.pdf) 
 
 with [V. Bassi](http://www.vittoriobassi.com/), 
 [M. Kahn](https://sites.google.com/site/mek1966/), 
@@ -25,3 +25,6 @@ N. Lozano Gracia and
 ##### Evidence-Based Solutions to Air Quality in Jakarta
 
 with Y. Sun
+
+
+##### Disinvestment in Transportation Infrastructures, the Case of France
