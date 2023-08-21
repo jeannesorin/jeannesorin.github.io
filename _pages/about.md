@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my website!
 
-I am a rising 5th year PhD candidate in Economics at the University of Chicago. I am also a DRW PhD Fellow at [EPIC](https://epic.uchicago.edu/people/jeanne-sorin/).
+I am a rising 5th year PhD candidate in Economics at the University of Chicago. I am also a DRW PhD Fellow at [EPIC](https://epic.uchicago.edu/people/jeanne-sorin/). 
 
 My research interests are at the intersection of environmental, development, history and urban/spatial economics.
 
