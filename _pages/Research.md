@@ -31,3 +31,11 @@ with B. Resosudarmo and Y. Sun
 
 
 ##### Challenges to Improving Infrastructures in Fast Growing Cities, Evidence from Kampala
+
+
+
+## Retired Projects
+
+##### [Reading about Flood Risk in the News, Evidence from the Housing Market](https://www.sciencespo.fr/ecole-doctorale/sites/sciencespo.fr.ecole-doctorale/files/MastersThesis_JeanneSorin.pdf)
+Prize: Best Master Thesis in Economics (2018/2019) - Sciences Po Paris
+
