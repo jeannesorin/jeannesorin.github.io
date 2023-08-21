@@ -17,7 +17,7 @@ Welcome to my website!
 
 I am a rising 5th year PhD candidate in Economics at the University of Chicago. I am also a DRW PhD Fellow at [EPIC](https://epic.uchicago.edu/people/jeanne-sorin/). 
 
-I study air pollution, transportation infrastructures, and their interaction. Most of my research projects are in Indonesia, Uganda and (historical) France.
+My research interests are at the union of air pollution and transportation infrastructures, including their interaction. Most of my research projects are in Indonesia, Uganda and (historical) France.
 
 I previously graduated with a MSc in Economics, and a BA in Social Sciences from SciencesPo Paris. 
 
