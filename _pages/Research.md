@@ -25,13 +25,14 @@ N. Lozano Gracia and
 ##### Evidence-Based Solutions to Air Quality in Jakarta
 
 with B. Resosudarmo and Y. Sun
+[Fieldwork in Progress]
 
 
 ##### Disinvestment in Transportation Infrastructures, the Case of France
 
 
 ##### Challenges to Improving Infrastructures in Fast Growing Cities, Evidence from Kampala
-
+[Fieldwork Completed]
 
 
 
