@@ -20,7 +20,7 @@ N. Lozano Gracia and
 
 
 
-#### Learning is in the Air: Clean Air as an Experience Good
+#### Learning is in the Air: Clean Air as an Experience Good (registered report)
 Accepted, Journal of Development Economics based on [Pre-Results Review](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf)
 - with B. Resosudarmo and [Y. Sun](https://yixinsun.com/)
 
