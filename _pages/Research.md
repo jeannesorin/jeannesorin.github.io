@@ -11,38 +11,36 @@ nav: true
 ## Working Papers
 
 
-##### [Searching for Customers, Finding Pollution](/assets/pdf/Pollution.pdf) 
-
-with [V. Bassi](http://www.vittoriobassi.com/), 
+#### [Searching for Customers, Finding Pollution](/assets/pdf/Pollution.pdf) (New Draft Coming Soon!)
+- with [V. Bassi](http://www.vittoriobassi.com/), 
 [M. Kahn](https://sites.google.com/site/mek1966/), 
 N. Lozano Gracia and 
 [T. Porzio](https://sites.google.com/view/tommaso-porzio/home)
 
 
+
+
+#### Learning is in the Air: Clean Air as an Experience Good
+Accepted, Journal of Development Economics based on [Pre-Results Review](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf)
+- with B. Resosudarmo and [Y. Sun](https://yixinsun.com/)
+
+
+
+
 ## Work in Progress
 
-
-##### Evidence-Based Solutions to Air Quality in Jakarta
-
-with B. Resosudarmo and Y. Sun
-
-[Fieldwork in Progress]
+#### Disinvestment in Transportation Infrastructures, the Case of France
 
 
-##### Disinvestment in Transportation Infrastructures, the Case of France
+#### Road Improvement Under Private Land Ownership, Evidence from Kampala
+[Fieldwork Completed] Draft Coming Soon!
 
-
-##### Challenges to Improving Infrastructures in Fast Growing Cities, Evidence from Kampala
-
-[Fieldwork Completed]
 
 
 
 
 ## Retired Projects
 
-
-##### [Reading about Flood Risk in the News, Evidence from the Housing Market](https://www.sciencespo.fr/ecole-doctorale/sites/sciencespo.fr.ecole-doctorale/files/MastersThesis_JeanneSorin.pdf)
-
+#### [Reading about Flood Risk in the News, Evidence from the Housing Market](https://www.sciencespo.fr/ecole-doctorale/sites/sciencespo.fr.ecole-doctorale/files/MastersThesis_JeanneSorin.pdf)
 Prize: Best Master Thesis in Economics (2018/2019) - Sciences Po Paris
 
