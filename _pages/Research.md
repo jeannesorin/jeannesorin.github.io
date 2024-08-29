@@ -11,7 +11,7 @@ nav: true
 ## Working Papers
 
 
-#### [Searching for Customers, Finding Pollution](/assets/pdf/Pollution.pdf) (New Draft Coming Soon!)
+#### [Jobs in the Smog: Firm Location and Workers’ Exposure to Pollution in African Cities](/assets/pdf/JobsInTheSmog.pdf) (New Draft!)
 - with [V. Bassi](http://www.vittoriobassi.com/), 
 [M. Kahn](https://sites.google.com/site/mek1966/), 
 N. Lozano Gracia and 
