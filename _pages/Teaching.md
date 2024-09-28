@@ -6,7 +6,6 @@ description:
 nav: true
 ---
 
-## Teaching Experience
 
 ### Lecturer
 
