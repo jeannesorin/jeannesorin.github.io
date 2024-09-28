@@ -4,6 +4,20 @@
   <head>
     {% include head.html %}
     {% include scripts/mathjax.html %}
+
+
+
+    <script>
+      function toggleAbstract(id) {
+        var element = document.getElementById(id);
+        if (element.style.display === "none") {
+          element.style.display = "block";
+        } else {
+          element.style.display = "none";
+        }
+      }
+      </script>
+      
   </head>
 
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
