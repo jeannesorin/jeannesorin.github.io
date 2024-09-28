@@ -3,17 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jeanne
+first_name: JEANNE SORIN
 middle_name:
-last_name: Sorin
+last_name: 
 email: jsorin@uchicago.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jeanne Sorin - PhD Candidate in Economics at the University of Chicago
+  Jeanne Sorin - PhD Candidate in Economics at the University of Chicago on the 2024-2025 Academic Job Market
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-
 icon: 🎓 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 #baseurl: /al-folio # the subpath of your site, e.g. /blog/
@@ -51,7 +48,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: @jenn_slg
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -66,7 +63,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
 contact_note: >
-  Feel free to reach me at: jsorin[at]uchicago[dot]edu
+  Feel free to reach me at: jsorin@uchicago.edu
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -75,7 +72,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name: JeanneSorin  # your blog must have a name for it to show up in the nav bar
 blog_description: Jeanne Sorin - PhD Candidate in Economics
 permalink: /blog/:year/:title/
 
