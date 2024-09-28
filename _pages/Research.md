@@ -35,6 +35,11 @@ N. Lozano Gracia and
 
 **New Draft** (August 2024)
 
+<!-- Abstract feature -->
+<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract')">Abstract</a>
+<div id="jobs-abstract" style="display: none; margin-top: 10px;">
+    This paper investigates the effect of firm location on workers' exposure to pollution in African cities. Using data from firms and pollution levels in Kampala, we assess how air quality influences productivity and worker health outcomes.
+</div>
 
 
 <div style="margin-top: 40px;"></div>
