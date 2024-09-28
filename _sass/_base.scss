@@ -508,3 +508,16 @@ body {
   line-height: 1.6;
   color: var(--global-text-color);
 }
+
+
+.full-width-image {
+  width: 100%;
+  text-align: center;
+  margin: 0; /* Ensure no margin around the image */
+}
+
+.full-width-img {
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
+  display: block;
+}

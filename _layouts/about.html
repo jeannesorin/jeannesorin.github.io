@@ -2,11 +2,18 @@
 layout: default
 ---
 
+<!-- Top Image Full Width -->
+<div class="full-width-image">
+  <img src="/assets/img/jakarta_own.png" alt="Top Image" class="full-width-img">
+  <figcaption class="image-legend">Note: Smog on Jakarta sunrise.</figcaption>
+</figure>
+</div>
+
 <div class="post">
 
   <header class="post-header">
     <h1 class="post-title">
-     {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+     {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name site.last_name}}{% else %}{{ site.title }}{% endif %}
     </h1>
      <p class="desc">{{ page.description }}</p>
   </header>
@@ -48,3 +55,10 @@ layout: default
   </article>
 
 </div>
+
+
+<!-- Bottom Image Full Width -->
+<div class="full-width-image">
+  <img src="/assets/img/kampala_roads_kcca.jpg" alt="Bottom Image" class="full-width-img">
+  <figcaption class="image-legend">Source: Kampala Capital City Authority.</figcaption>
+</figure>
