@@ -519,5 +519,26 @@ body {
 .full-width-img {
   width: 100%;
   height: auto; /* Maintain aspect ratio */
-  display: block;
+}
+
+/* Make the main content responsive */
+.responsive-content {
+  width: 100%;
+  max-width: 100%; /* Remove any fixed max width */
+  margin: 0 auto; /* Center the content horizontally */
+  padding: 0 20px; /* Add padding for readability */
+}
+
+/* Ensure that the profile image and text also resize */
+.profile img {
+  max-width: 100%;
+  height: auto; /* Keep aspect ratio */
+}
+
+.clearfix {
+  clear: both;
+}
+
+.post-header, .post-title, p {
+  width: 100%; /* Make sure text spans the width of the screen */
 }
