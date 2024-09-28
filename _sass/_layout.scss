@@ -81,16 +81,16 @@
 // TODO: redefine projects layout.
 
 
-<script>
-function toggleAbstract(id) {
-  var element = document.getElementById(id);
-  if (element.style.display === "none") {
-    element.style.display = "block";
-  } else {
-    element.style.display = "none";
-  }
-}
-</script>
+// <script>
+// function toggleAbstract(id) {
+//   var element = document.getElementById(id);
+//   if (element.style.display === "none") {
+//     element.style.display = "block";
+//   } else {
+//     element.style.display = "none";
+//   }
+// }
+// </script>
 
 
 #jobs-abstract {
