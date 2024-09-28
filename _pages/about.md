@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: 
 
@@ -13,12 +13,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website!
+Welcome! I am a PhD Candidate in Economics at the University of Chicago. I study challenges to sustainable urban growth in developing countries, with a focus on transportation infrastructure, air pollution and their interaction. Most of my research projects are in Uganda, Indonesia and (historical) France.
 
-I am a 5th year PhD candidate in Economics at the University of Chicago. I am also a DRW PhD Fellow at [EPIC](https://epic.uchicago.edu/people/jeanne-sorin/). 
+I will be on the 2024-2025 Academic Job Market. 
 
-My research interests are at the union of air pollution and transportation infrastructures, including their interaction. Most of my research projects are in Indonesia, Uganda and (historical) France.
-
-I previously graduated with a MSc in Economics, and a BA in Social Sciences from SciencesPo Paris. 
+I previously graduated with a MSc in Economics, and a BA in Social Sciences from SciencesPo Paris. I am currently also a DRW PhD Fellow at [EPIC](https://epic.uchicago.edu/people/jeanne-sorin/).
 
 You can download my cv [here](/assets/pdf/cv_jeanne.pdf).
