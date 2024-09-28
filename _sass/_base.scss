@@ -512,14 +512,16 @@ body {
 
 
 .full-width-image {
-  width: 100%;
-  text-align: center;
-  margin: 0; /* Ensure no margin around the image */
+  width: 100vw;
+  text-align: left;
+  margin: 0 auto; /* Ensure no margin around the image */
 }
 
 .full-width-img {
-  width: 100%;
+  width: 100vw;
+  max-width:none;
   height: auto; /* Maintain aspect ratio */
+  display: block;
 }
 
 /* Make the main content responsive */
