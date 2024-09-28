@@ -41,7 +41,7 @@ N. Lozano Gracia and
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract')">Abstract</a>
 <div id="jobs-abstract" style="display: none; margin-top: 10px;">
     Air pollution within African cities is high but unevenly distributed. In principle, individuals could mitigate the severe health risk by working in the less polluted parts of the city. In practice, we show that pollution avoidance is challenging because firms locate on the busiest and most polluted roads searching for customer visibility. Both workers and entrepreneurs bear the cost of this pollution exposure, but the benefits are unequally distributed: profits are much higher in polluted areas, while compensating differentials in wages are minimal. An information experiment reveals limited awareness of pollution, suggesting that workers might be undercompensated for their exposure.
-</div> ; 
+</div> 
 
 <div style="margin-top: 80px;"></div>
 
