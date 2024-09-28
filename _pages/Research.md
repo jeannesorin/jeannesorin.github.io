@@ -10,7 +10,9 @@ nav: true
 
 # Research
 
-# Working Papers
+<div style="margin-top: 60px;"></div>
+
+## Working Papers
 
 
 ### Public Roads on Private Lands, Evidence from Kampala
@@ -49,7 +51,7 @@ N. Lozano Gracia and
 
 <div style="margin-top: 80px;"></div>
 
-# Works in Progress
+## Works in Progress
 
 
 ### Exposures to Indoor and Outdoor PM2.5 in a Developing Megacity
