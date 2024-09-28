@@ -51,7 +51,8 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  float:right;
+  margin-left: 20px;
   width: 100%;
 
   .address {
@@ -541,4 +542,15 @@ body {
 
 .post-header, .post-title, p {
   width: 100%; /* Make sure text spans the width of the screen */
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Optional: Style for the main content next to the image */
+.main-content {
+  width: auto; /* Ensure it takes the available space */
 }
