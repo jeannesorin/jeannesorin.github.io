@@ -7,26 +7,21 @@ nav: true
 ---
 
 
-
-# Research
-
 <div style="margin-top: 60px;"></div>
 
-## Working Papers
+# Working Papers
 
 
-### Public Roads on Private Lands, Evidence from Kampala
-[Fieldwork Completed] Draft Coming Soon!
+#### Public Roads on Private Lands, Evidence from Kampala (JMP)
+Draft Coming Soon!
 
 <div style="margin-top: 60px;"></div>
 
 
-### Learning is in the Air: Clean Air as an Experience Good 
+#### Learning is in the Air: Clean Air as an Experience Good 
 with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo) and [Y. Sun](https://yixinsun.com/) - **Registered report** (August 2024)
 
-**Accepted**, Journal of Development Economics based on [Pre-Results Review](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf)
-
-[AEA RCT Registry No. 0013110](https://www.socialscienceregistry.org/trials/13110)
+**Accepted**, Journal of Development Economics based on [Pre-Results Review](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf) - [AEA RCT Registry No. 0013110](https://www.socialscienceregistry.org/trials/13110)
 
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract1')">Abstract</a>
 <div id="jobs-abstract1" style="display: none; margin-top: 10px;">
@@ -37,11 +32,11 @@ with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosud
 
 
 
-### [Jobs in the Smog: Firm Location and Workers’ Exposure to Pollution in African Cities](/assets/pdf/JobsInTheSmog.pdf) 
+#### [Jobs in the Smog: Firm Location and Workers’ Exposure to Pollution in African Cities](/assets/pdf/JobsInTheSmog.pdf) 
 with [V. Bassi](http://www.vittoriobassi.com/), 
 [M. Kahn](https://sites.google.com/site/mek1966/), 
 N. Lozano Gracia and 
-[T. Porzio](https://sites.google.com/view/tommaso-porzio/home) - **New Draft** (August 2024)
+[T. Porzio](https://sites.google.com/view/tommaso-porzio/home) - **Submitted** (August 2024)
 
 <!-- Abstract feature -->
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract2')">Abstract</a>
@@ -51,10 +46,10 @@ N. Lozano Gracia and
 
 <div style="margin-top: 80px;"></div>
 
-## Works in Progress
+# Works in Progress
 
 
-### Exposures to Indoor and Outdoor PM2.5 in a Developing Megacity
+#### Exposures to Indoor and Outdoor PM2.5 in a Developing Megacity
 with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut), 
 [B. P. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo),
 [D. Suryadarma](https://sites.google.com/view/dsuryadarma/home) and
@@ -69,11 +64,22 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 <div style="margin-top: 60px;"></div>
 
 
-### Disinvestment in Transportation Infrastructures, the Case of France
+#### Disinvestment in Transportation Infrastructures, the Case of France
 
-
+<!-- Abstract feature -->
+<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract3')">Abstract</a>
+<div id="jobs-abstract3" style="display: none; margin-top: 10px;">
+    Transportation infrastructure determines a location's accessibility and, in turn, is a key driver of demographic and economic distributions across space. Investments and dis-investments in this infrastructure are common, but the impacts of contractionary transportation policies have not been extensively studied. Using a simple modification of the standard quantitative spatial model, I theorize that while positive accessibility changes to a location result in rapid population adjustment, negative changes may create a slow and asymmetric population adjustment due to the presence of slowly depreciating housing capital. This paper provides empirical support for the existence of these non-linear responses by studying the impact of the closure of more than one half of the French railroad between 1930 and 1960. I find that, within a given county, municipalities hit one-standard deviation harder by the policy had a 7 percent lower population growth between 1926 and 1982. This response is slow, strongest between two and four decades after the policy, and is non-linear in the short run: it is systematically lower when estimated on market access decrease than it is for (relative) market access increase.
+</div> 
 
 <div style="margin-top: 80px;"></div>
+
+
+# Policy Writings
+
+#### Urbanisation, transport and the environment: Some considerations for a more productive Kampala
+(with Juliana Oliveira-Cunha), IGC Policy Brief UGA-24185
+
 
 # Retired Projects
 
