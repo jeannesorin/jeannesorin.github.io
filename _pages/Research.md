@@ -12,7 +12,7 @@ nav: true
 # Working Papers
 
 
-#### Public Roads on Private Lands, Evidence from Kampala (JMP)
+#### Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda (JMP)
 Draft Coming Soon!
 
 <div style="margin-top: 60px;"></div>
