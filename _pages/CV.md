@@ -8,6 +8,6 @@ nav: true
 
 
 
-You can find my CV [here](/assets/pdf/JeanneSorin_CV_latest.pdf).
+You can find my CV [here](/assets/pdf/Jeanne_Sorin_CV.pdf).
 
 
