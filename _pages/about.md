@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: jeanne_portrait.jpg
+  image: Jeanne_Sorin_JMC.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
