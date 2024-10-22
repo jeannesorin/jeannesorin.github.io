@@ -19,4 +19,4 @@ Welcome! I am a PhD Candidate in Economics at the University of Chicago. I study
 
 I previously graduated with a MSc in Economics and a BA in Social Sciences from SciencesPo Paris. I am also a DRW PhD Fellow at [EPIC](https://epic.uchicago.edu/people/jeanne-sorin/).
 
-You can download my cv [here](/assets/pdf/cv_jeanne.pdf).
+You can download my CV [here](/assets/pdf/Jeanne_Sorin_CV.pdf).
