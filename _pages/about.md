@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Jeanne Sorin
 permalink: /
 description: 
 
