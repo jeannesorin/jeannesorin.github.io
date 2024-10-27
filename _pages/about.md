@@ -1,5 +1,5 @@
 ---
-layout: Jeanne Sorin
+layout: about
 title: Jeanne Sorin
 permalink: /
 description: 
