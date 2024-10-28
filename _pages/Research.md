@@ -15,6 +15,12 @@ nav: true
 #### Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda (JMP)
 Draft Coming Soon!
 
+<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract5')">Abstract</a>
+<div id="jobs-abstract5" style="display: none; margin-top: 10px;">
+    Land acquisition costs can undermine the net returns of public infrastructure projects in developing cities, hindering the implementation of high-benefit projects. I investigate this issue in Kampala, Uganda, using new survey data with real estate brokers and landowners to evaluate the benefits and costs of 140 km of road improvements since 2017. By exploiting variation in the timing of upgrades, I estimate local benefits and develop a quantitative spatial model that accounts for spillovers and the fiscal cost of land acquisition. I find that, due to the high fiscal wedge, acquiring land through eminent domain could have resulted in negative net returns. However, the government's voluntary land acquisition approach reduced costs, generating net welfare gains equivalent to 99 USD per resident. I also show how the city’s three property rights regimes influenced land costs, with weaker property rights functioning as a Pigouvian subsidy. Finally, I solve for the optimal road improvements under different institutional settings and funding restrictions, offering insights for policy design to enhance allocative efficiency and welfare outcomes.
+</div> 
+
+
 <div style="margin-top: 60px;"></div>
 
 
@@ -70,8 +76,8 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 #### Disinvestment in Transportation Infrastructures, the Case of France
 
 <!-- Abstract feature -->
-<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract3')">Abstract</a>
-<div id="jobs-abstract3" style="display: none; margin-top: 10px;">
+<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract4')">Abstract</a>
+<div id="jobs-abstract4" style="display: none; margin-top: 10px;">
     Transportation infrastructure determines a location's accessibility and, in turn, is a key driver of demographic and economic distributions across space. Investments and dis-investments in this infrastructure are common, but the impacts of contractionary transportation policies have not been extensively studied. Using a simple modification of the standard quantitative spatial model, I theorize that while positive accessibility changes to a location result in rapid population adjustment, negative changes may create a slow and asymmetric population adjustment due to the presence of slowly depreciating housing capital. This paper provides empirical support for the existence of these non-linear responses by studying the impact of the closure of more than one half of the French railroad between 1930 and 1960. I find that, within a given county, municipalities hit one-standard deviation harder by the policy had a 7 percent lower population growth between 1926 and 1982. This response is slow, strongest between two and four decades after the policy, and is non-linear in the short run: it is systematically lower when estimated on market access decrease than it is for (relative) market access increase.
 </div> 
 
