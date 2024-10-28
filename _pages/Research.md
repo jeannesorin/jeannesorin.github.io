@@ -63,7 +63,8 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 [D. Suryadarma](https://sites.google.com/view/dsuryadarma/home) and
 [Y. Sun](https://yixinsun.com/research/)
 
- [Poster](/assets/pdf/JakartaIndoorOutdoor_pm.pdf) 
+ [Poster](/assets/pdf/JakartaIndoorOutdoor_pm.pdf)  
+ 
 <!-- Abstract feature -->
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract3')">Abstract</a>
 <div id="jobs-abstract3" style="display: none; margin-top: 10px;">
