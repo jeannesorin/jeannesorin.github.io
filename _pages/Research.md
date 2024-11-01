@@ -13,11 +13,11 @@ nav: true
 
 
 #### Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda (JMP)
-Draft Coming Soon!
+ [(Draft)](/assets/pdf/Sorin_JMP.pdf) 
 
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract5')">Abstract</a>
 <div id="jobs-abstract5" style="display: none; margin-top: 10px;">
-    Land acquisition costs can undermine the net returns of public infrastructure projects in developing cities, hindering the implementation of high-benefit projects. I investigate this issue in Kampala, Uganda, using new survey data with real estate brokers and landowners to evaluate the benefits and costs of 140 km of road improvements since 2017. By exploiting variation in the timing of upgrades, I estimate local benefits and develop a quantitative spatial model that accounts for spillovers and the fiscal cost of land acquisition. I find that, due to the high fiscal wedge, acquiring land through eminent domain could have resulted in negative net returns. However, the government's voluntary land acquisition approach reduced costs, generating net welfare gains equivalent to 99 USD per resident. I also show how the city’s three property rights regimes influenced land costs, with weaker property rights functioning as a Pigouvian subsidy. Finally, I solve for the optimal road improvements under different institutional settings and funding restrictions, offering insights for policy design to enhance allocative efficiency and welfare outcomes.
+    High land acquisition costs often undermine the net returns and hinder the implementation of high-benefit infrastructure projects in developing cities. I examine this issue in Kampala, Uganda, using new survey data on real-estate brokers and landowners to evaluate the costs and benefits of 140 km of road improvements implemented since 2017. Leveraging the timing of improvements, I estimate their local benefits, and I develop a quantitative spatial model to account for the general equilibrium gains, including spillovers and the fiscal cost of land acquisition. Weak property rights enable the government to acquire land at reduced cost, acting as a subsidy to the government. Combined with a high cost of raising domestic funds, these weak property rights support more extensive road improvements with city-wide benefits. In turn, the realized road improvements yield net welfare gains equivalent to 99 USD per Kampala resident, compared to 40 USD if land had been acquired at market value, as legally mandated under eminent domain. Finally, I solve for the optimal road improvements under different institutional settings and funding restrictions, offering insights for policy design to enhance allocative efficiency and welfare outcomes.
 </div> 
 
 
