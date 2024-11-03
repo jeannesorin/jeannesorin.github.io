@@ -12,8 +12,7 @@ nav: true
 # Working Papers
 
 
-#### Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda (JMP)
- [(Draft)](/assets/pdf/Sorin_JMP.pdf) 
+#### [Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda (JMP)](/assets/pdf/Sorin_JMP.pdf) 
 
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract5')">Abstract</a>
 <div id="jobs-abstract5" style="display: none; margin-top: 10px;">
