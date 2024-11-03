@@ -86,6 +86,10 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 <div style="margin-top: 80px;"></div>
 
 
+#### Traffic Solutions in Delhi 
+with Michael Greenstone and Anant Sudarshan
+
+
 # Policy Writings
 
 #### Urbanisation, transport and the environment: Some considerations for a more productive Kampala
