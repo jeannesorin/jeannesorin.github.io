@@ -73,7 +73,7 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 <div style="margin-top: 60px;"></div>
 
 
-#### Disinvestment in Transportation Infrastructures, the Case of France
+#### French Railroad Shrinkage 
 
 <!-- Abstract feature -->
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract4')">Abstract</a>
