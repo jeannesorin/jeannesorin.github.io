@@ -27,7 +27,8 @@ nav: true
 [AEA RCT Registry No. 0013110](https://www.socialscienceregistry.org/trials/13110)  
 with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo) and [Y. Sun](https://yixinsun.com/) - (August 2024)
 
-**Accepted**, Journal of Development Economics based on Pre-Results Review - [**Registered Report**](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf)
+**Accepted**, Journal of Development Economics based on Pre-Results Review 
+##### [Registered Report](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf)
 
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract1')">Abstract</a>
 <div id="jobs-abstract1" style="display: none; margin-top: 10px;">
