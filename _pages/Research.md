@@ -12,8 +12,7 @@ nav: true
 # Working Papers
 
 
-#### Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda (JMP)
- [(Draft)](/assets/pdf/Sorin_JMP.pdf) 
+#### [Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda (JMP)](/assets/pdf/Sorin_JMP.pdf) 
 
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract5')">Abstract</a>
 <div id="jobs-abstract5" style="display: none; margin-top: 10px;">
@@ -25,9 +24,11 @@ nav: true
 
 
 #### Learning is in the Air: Clean Air as an Experience Good 
-with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo) and [Y. Sun](https://yixinsun.com/) - **Registered report** (August 2024)
+[AEA RCT Registry No. 0013110](https://www.socialscienceregistry.org/trials/13110)  
+with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo) and [Y. Sun](https://yixinsun.com/) - (August 2024)
 
-**Accepted**, Journal of Development Economics based on [Pre-Results Review](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf) - [AEA RCT Registry No. 0013110](https://www.socialscienceregistry.org/trials/13110)
+**Accepted**, Journal of Development Economics based on Pre-Results Review 
+##### [Registered Report](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf)
 
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract1')">Abstract</a>
 <div id="jobs-abstract1" style="display: none; margin-top: 10px;">
@@ -74,7 +75,7 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 <div style="margin-top: 60px;"></div>
 
 
-#### Disinvestment in Transportation Infrastructures, the Case of France
+#### French Railroad Shrinkage 
 
 <!-- Abstract feature -->
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract4')">Abstract</a>
@@ -83,6 +84,10 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 </div> 
 
 <div style="margin-top: 80px;"></div>
+
+
+#### Traffic Solutions in Delhi 
+with Michael Greenstone and Anant Sudarshan
 
 
 # Policy Writings
