@@ -92,7 +92,7 @@ with Michael Greenstone and Anant Sudarshan
 
 # Policy Writings
 
-#### Urbanisation, transport and the environment: Some considerations for a more productive Kampala
+#### [Urbanisation, transport and the environment: Some considerations for a more productive Kampala](https://www.theigc.org/publications/urbanisation-transport-and-environment-some-considerations-more-productive-kampala)
 (with Juliana Oliveira-Cunha), IGC Policy Brief UGA-24185
 
 
