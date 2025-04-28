@@ -16,7 +16,11 @@ social: true  # includes social icons at the bottom of the page
 Welcome! 
 I am an economist doing research at the intersection of development economics, urban / spatial economics and environmental economics.
 
+<<<<<<< HEAD
 In July 2026 I will join UC Berkeley Goldman School of Public Policy as an Assistant Professor, after a one year postdoc at [the Institute for Climate and Sustainable Growth at the University of Chicago](https://climate.uchicago.edu/people/jeanne-sorin/).
+=======
+In July 2026, I will join UC Berkeley Goldman School of Public Policy as an Assistant Professor, after a one year postdoc at the Institute for Climate and Sustainable Growth at the University of Chicago.
+>>>>>>> 8ae9a484 (Update about.md)
 
 In my [Job Market Paper](/assets/pdf/Sorin_JMP.pdf), I examine how land acquisition can distort road improvement projects and threaten their net returns in Kampala, Uganda.
 
