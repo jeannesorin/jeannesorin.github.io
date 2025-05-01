@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 Welcome! 
 I am a PhD Candidate in Economics at the University of Chicago. My primary research fields are development economics, urban / spatial economics and environmental economics.
 
-I was on the 2024-2025 Academic Job Market. I will join UC Berkeley Goldman School of Public Policy as an Assistant Professor in July 2026, after a one year postdoc.
+In July 2026 I will join UC Berkeley Goldman School of Public Policy as an Assistant Professor, after a one year postdoc at the Institute for Climate and Sustainable Growth at the University of Chicago.
 
 In my [Job Market Paper](/assets/pdf/Sorin_JMP.pdf), I examine how land acquisition threatens the net returns of road improvements in Kampala, Uganda.
 
