@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Welcome! 
-I am a PhD Candidate in Economics at the University of Chicago. My primary research fields are development economics, urban / spatial economics and environmental economics.
+I am an applied microeconomist doing research at the intersection of development economics, urban / spatial economics and environmental economics.
 
 In July 2026 I will join UC Berkeley Goldman School of Public Policy as an Assistant Professor, after a one year postdoc at the Institute for Climate and Sustainable Growth at the University of Chicago.
 
