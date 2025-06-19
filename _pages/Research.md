@@ -19,6 +19,8 @@ nav: true
     Despite the need for transportation infrastructure investments in developing cities, empirical evidence on their net returns is lacking due to data constraints and the common oversight of land acquisition costs. In this paper, I collect novel data to estimate the net returns of 140 km of road improvements in Kampala, Uganda, since 2017, accounting for both benefits and land acquisition costs. I conduct two surveys with real estate brokers and landowners and I exploit variation in the timing of improvements to estimate the local benefits. I then develop a quantitative spatial model to capture the city-level impacts of the policy, accounting for general equilibrium effects and heterogeneous land acquisition costs. Leveraging the coexistence of three property rights regimes in the city, I show that weak property rights are associated with lower land acquisition costs. I find that the net welfare gains from the realized road improvements were equivalent to a $119 transfer per resident, but would have been negative if land had been acquired at market value, as legally mandated under eminent domain, due to the high cost of raising domestic funds. Finally, I solve for the optimal road improvements under different institutional settings and demonstrate the importance of accounting for land costs when designing, funding, and evaluating transportation infrastructure projects, particularly in low- and middle-income countries where land acquisition relies on fragile land and financial institutions.
 </div> 
 
+Coverage: [IGC Policy Brief](https://www.theigc.org/publications/land-costs-and-citywide-benefits-road-improvements-sub-saharan-african-city-evidence)
+
 
 <div style="margin-top: 60px;"></div>
 
@@ -55,24 +57,29 @@ N. Lozano Gracia and
 
 <div style="margin-top: 80px;"></div>
 
-# Works in Progress
 
 
-#### Exposures to Indoor and Outdoor PM2.5 in a Developing Megacity
+#### [High Indoor Air Pollution in a Developing Megacity: The Role of Outdoor PM2.5 and Household Characteristics](https://www.adb.org/publications/high-indoor-air-pollution-in-a-developing-megacity-the-role-of-outdoor-pm2-5-and-household-characteristics)
 with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut), 
 [B. P. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo),
 [D. Suryadarma](https://sites.google.com/view/dsuryadarma/home) and
 [Y. Sun](https://yixinsun.com/research/)
 
- [Poster](/assets/pdf/JakartaIndoorOutdoor_pm.pdf)  
+[ADBI Working Paper](https://www.adb.org/publications/high-indoor-air-pollution-in-a-developing-megacity-the-role-of-outdoor-pm2-5-and-household-characteristics)
+[Poster](/assets/pdf/JakartaIndoorOutdoor_pm.pdf)  
  
 <!-- Abstract feature -->
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract3')">Abstract</a>
 <div id="jobs-abstract3" style="display: none; margin-top: 10px;">
-    This study investigates the relationship between outdoor and indoor air pollution in Jakarta, Indonesia, one of the largest cities in the world. Using data from over 300 indoor and outdoor pollution monitors over a three-month period, we explore the temporal and spatial relationship between outdoor and indoor PM2.5 concentrations. Our key findings reveal that penetration rates of outdoor pollution into indoor spaces are significantly higher than those documented in previous studies conducted in developed settings. We quantify the proportion of indoor air pollution attributable to outdoor sources versus indoor sources, providing insights into the primary drivers of indoor air quality. Through extensive surveying, we also explore factors contributing to heterogeneity in the outdoor-indoor pollution relationship, including housing structure, demographic variables, and household behavior. Our findings underscore the importance of considering both outdoor and indoor air quality in comprehensive pollution mitigation strategies.
+    Exposure to fine particulate matter (PM2.5) poses major health risks, especially in rapidly urbanizing cities. As urbanization accelerates, people in low- and middle-income countries spend more time indoors, where pol We present evidence from over 152,000 monitor-hours of indoor PM2.5 measurements across homes in Jakarta, Indonesia, one of the world’s largest and most polluted cities. We find that mean daily indoor and outdoor PM2.5 levels are both dangerously high, eight times above World Health Organization’s (WHO) health-based guidelines. In addition, indoor PM2.5 frequently reach hazardous levels—40 to 100 times the WHO guideline, levels that outdoor monitors do not capture. Unlike in developed settings, most indoor pollution originates from outdoor infiltration. Survey data also reveal large inequalities: lower-income households experience double the mean indoor PM2.5 of higher-income households. Our findings show that indoor air pollution remains both severe and unequally distributed, even in this population where most people have adopted cleaner cooking fuels. Researchers and policymakers should integrate outdoor air quality mapping with demographically representative indoor monitoring to close key data gaps, enabling more accurate exposure estimates and better-targeted environmental health policies.
 </div> 
 
 <div style="margin-top: 60px;"></div>
+
+
+# Works in Progress
+
+
 
 
 #### French Railroad Shrinkage 
