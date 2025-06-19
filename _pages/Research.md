@@ -66,6 +66,7 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 [Y. Sun](https://yixinsun.com/research/)
 
 [ADBI Working Paper](https://www.adb.org/publications/high-indoor-air-pollution-in-a-developing-megacity-the-role-of-outdoor-pm2-5-and-household-characteristics)
+
 [Poster](/assets/pdf/JakartaIndoorOutdoor_pm.pdf)  
  
 <!-- Abstract feature -->
