@@ -47,8 +47,6 @@ with [V. Bassi](http://www.vittoriobassi.com/),
 N. Lozano Gracia and 
 [T. Porzio](https://sites.google.com/view/tommaso-porzio/home) 
 
-**Submitted** (August 2024)
-
 <!-- Abstract feature -->
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract2')">Abstract</a>
 <div id="jobs-abstract2" style="display: none; margin-top: 10px;">
@@ -59,13 +57,13 @@ N. Lozano Gracia and
 
 
 
-#### [High Indoor Air Pollution in a Developing Megacity: The Role of Outdoor PM2.5 and Household Characteristics](https://www.adb.org/publications/high-indoor-air-pollution-in-a-developing-megacity-the-role-of-outdoor-pm2-5-and-household-characteristics)
+#### [High Indoor Air Pollution in a Developing Megacity: The Role of Outdoor PM2.5 and Household Characteristics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5321574)
 with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut), 
 [B. P. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo),
 [D. Suryadarma](https://sites.google.com/view/dsuryadarma/home) and
 [Y. Sun](https://yixinsun.com/research/)
 
-[ADBI Working Paper](https://www.adb.org/publications/high-indoor-air-pollution-in-a-developing-megacity-the-role-of-outdoor-pm2-5-and-household-characteristics)
+[ADBI Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5321574)
 
 [Poster](/assets/pdf/JakartaIndoorOutdoor_pm.pdf)  
  
