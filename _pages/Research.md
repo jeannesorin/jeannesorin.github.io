@@ -19,7 +19,8 @@ nav: true
     Despite the need for transportation infrastructure investments in developing cities, empirical evidence on their net returns is lacking due to data constraints and the common oversight of land acquisition costs. In this paper, I collect novel data to estimate the net returns of 140 km of road improvements in Kampala, Uganda, since 2017, accounting for both benefits and land acquisition costs. I conduct two surveys with real estate brokers and landowners and I exploit variation in the timing of improvements to estimate the local benefits. I then develop a quantitative spatial model to capture the city-level impacts of the policy, accounting for general equilibrium effects and heterogeneous land acquisition costs. Leveraging the coexistence of three property rights regimes in the city, I show that weak property rights are associated with lower land acquisition costs. I find that the net welfare gains from the realized road improvements were equivalent to a $119 transfer per resident, but would have been negative if land had been acquired at market value, as legally mandated under eminent domain, due to the high cost of raising domestic funds. Finally, I solve for the optimal road improvements under different institutional settings and demonstrate the importance of accounting for land costs when designing, funding, and evaluating transportation infrastructure projects, particularly in low- and middle-income countries where land acquisition relies on fragile land and financial institutions.
 </div> 
 
-Coverage: [IGC Policy Brief](https://www.theigc.org/publications/land-costs-and-citywide-benefits-road-improvements-sub-saharan-african-city-evidence)
+Coverage: [IGC Policy Brief](https://www.theigc.org/publications/land-costs-and-citywide-benefits-road-improvements-sub-saharan-african-city-evidence).
+Recipient of the [European Economic Association 2025 Young Economist Award](https://www.eeassoc.org/awards/young-economist-award).
 
 
 <div style="margin-top: 60px;"></div>
@@ -53,7 +54,11 @@ N. Lozano Gracia and
     Air pollution within African cities is high but unevenly distributed. In principle, individuals could mitigate the severe health risk by working in the less polluted parts of the city. In practice, we show that pollution avoidance is challenging because firms locate on the busiest and most polluted roads searching for customer visibility. Both workers and entrepreneurs bear the cost of this pollution exposure, but the benefits are unequally distributed: profits are much higher in polluted areas, while compensating differentials in wages are minimal. An information experiment reveals limited awareness of pollution, suggesting that workers might be undercompensated for their exposure.
 </div> 
 
+Coverage: [IGC (Policy Brief)](https://www.theigc.org/publications/exposure-air-pollution-small-firms-african-cities), [Voxdev](https://voxdev.org/topic/energy-environment/workers-african-cities-are-extremely-exposed-air-pollution)
+
 <div style="margin-top: 80px;"></div>
+
+
 
 
 
@@ -72,6 +77,8 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 <div id="jobs-abstract3" style="display: none; margin-top: 10px;">
     Exposure to fine particulate matter (PM2.5) poses major health risks, especially in rapidly urbanizing cities. As urbanization accelerates, people in low- and middle-income countries spend more time indoors, where pol We present evidence from over 152,000 monitor-hours of indoor PM2.5 measurements across homes in Jakarta, Indonesia, one of the world’s largest and most polluted cities. We find that mean daily indoor and outdoor PM2.5 levels are both dangerously high, eight times above World Health Organization’s (WHO) health-based guidelines. In addition, indoor PM2.5 frequently reach hazardous levels—40 to 100 times the WHO guideline, levels that outdoor monitors do not capture. Unlike in developed settings, most indoor pollution originates from outdoor infiltration. Survey data also reveal large inequalities: lower-income households experience double the mean indoor PM2.5 of higher-income households. Our findings show that indoor air pollution remains both severe and unequally distributed, even in this population where most people have adopted cleaner cooking fuels. Researchers and policymakers should integrate outdoor air quality mapping with demographically representative indoor monitoring to close key data gaps, enabling more accurate exposure estimates and better-targeted environmental health policies.
 </div> 
+
+Coverage: [East Asia Forum](https://eastasiaforum.org/2025/09/15/jakartas-air-pollution-crisis-invades-homes/)
 
 <div style="margin-top: 60px;"></div>
 
@@ -92,11 +99,11 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 <div style="margin-top: 80px;"></div>
 
 
-#### Traffic Solutions in Delhi 
+#### Solutions to Transportation-Related Air Pollution in Delhi 
 with Michael Greenstone and Anant Sudarshan
 
 
-# Policy Writings
+# Other Policy Writings
 
 #### [Urbanisation, transport and the environment: Some considerations for a more productive Kampala](https://www.theigc.org/publications/urbanisation-transport-and-environment-some-considerations-more-productive-kampala)
 (with Juliana Oliveira-Cunha), IGC Policy Brief UGA-24185
