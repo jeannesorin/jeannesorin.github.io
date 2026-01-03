@@ -22,7 +22,4 @@ In my [Job Market Paper](/assets/pdf/Sorin_JMP.pdf), I examine how land acquisit
 
 More broadly, I study the challenges faced by developing cities, focusing on transportation infrastructure and environmental hazards. To that end, I use quantitative spatial models, novel survey data and randomized control trials in order to answer policy-relevant questions. My current projects span Uganda, Indonesia, India and (historical) France.
 
-
-I am also a DRW PhD Fellow at [EPIC](https://epic.uchicago.edu/people/jeanne-sorin/).
-
 You can download my CV [here](/assets/pdf/Jeanne_Sorin_CV.pdf).
