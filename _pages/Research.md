@@ -57,6 +57,8 @@ N. Lozano Gracia and
 
 Coverage: [IGC (Policy Brief)](https://www.theigc.org/publications/exposure-air-pollution-small-firms-african-cities), [Voxdev](https://voxdev.org/topic/energy-environment/workers-african-cities-are-extremely-exposed-air-pollution)
 
+Updated version coming soon!
+
 <div style="margin-top: 80px;"></div>
 
 
@@ -81,6 +83,8 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 
 Coverage: [East Asia Forum](https://eastasiaforum.org/2025/09/15/jakartas-air-pollution-crisis-invades-homes/)
 
+Submitted!
+
 <div style="margin-top: 60px;"></div>
 
 
@@ -100,8 +104,9 @@ Coverage: [East Asia Forum](https://eastasiaforum.org/2025/09/15/jakartas-air-po
 <div style="margin-top: 80px;"></div>
 
 
-#### Solutions to Transportation-Related Air Pollution in Delhi 
-with Michael Greenstone and Anant Sudarshan
+
+#### Pollution Under-Controlled: Measuring Compliance on Vehicle Emission Testing in Delhi
+with Anant Sudarshan
 
 
 # Other Policy Writings
