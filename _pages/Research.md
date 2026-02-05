@@ -71,6 +71,8 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 [D. Suryadarma](https://sites.google.com/view/dsuryadarma/home) and
 [Y. Sun](https://yixinsun.com/research/)
 
+**Revise and Resubmit** at **Proceedings of the National Academy of Sciences (PNAS)**
+
 [ADBI Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5321574)
 
 [Poster](/assets/pdf/JakartaIndoorOutdoor_pm.pdf)  
@@ -83,7 +85,6 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 
 Coverage: [East Asia Forum](https://eastasiaforum.org/2025/09/15/jakartas-air-pollution-crisis-invades-homes/)
 
-Submitted!
 
 <div style="margin-top: 60px;"></div>
 
