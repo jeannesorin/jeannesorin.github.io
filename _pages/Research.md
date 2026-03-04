@@ -107,7 +107,9 @@ Coverage: [East Asia Forum](https://eastasiaforum.org/2025/09/15/jakartas-air-po
 
 
 #### Pollution Under-Controlled: Measuring Compliance on Vehicle Emission Testing in Delhi
-with Anant Sudarshan
+with Anant Sudarshan and Michael Greenstone
+
+Coverage: [EPIC](https://epic.uchicago.in/project/pollution-under-control-certificates-pucc/)
 
 
 # Other Policy Writings
