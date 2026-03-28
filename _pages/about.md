@@ -19,6 +19,8 @@ I am an economist doing research at the intersection of development economics, u
 
 In July 2026 I will join UC Berkeley Goldman School of Public Policy as an Assistant Professor, after a one year postdoc at [the Institute for Climate and Sustainable Growth at the University of Chicago](https://climate.uchicago.edu/people/jeanne-sorin/).
 
+In March 2026, I was a [visiting professor at Makerere University's Department of Economics](https://bams.mak.ac.ug/prof-jeanne-sorin-visits-makerere-university-underscores-the-value-of-research-graduate-training-and-international-collaboration/).
+
 I study the challenges faced by developing cities, focusing on transportation infrastructure and environmental hazards. To that end, I use quantitative spatial models, novel survey data and randomized control trials in order to answer policy-relevant questions. My current projects span Uganda, Indonesia, India and (historical) France.
 
 You can download my CV [here](/assets/pdf/Jeanne_Sorin_CV.pdf).
