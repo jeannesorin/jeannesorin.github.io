@@ -7,14 +7,21 @@ nav: true
 ---
 
 
-### Lecturer
+### Makerere University
 
-- Elements of Economic Analysis I (Undergraduate) - Fall 2022
+- Workshop in Development, Environmental and Urban Economics (Graduate, Lecturer) - Winter 2026
 
 
-### Teaching Assistant
+### University of Chicago
 
-- Math Camp (Graduate) - Fall 2023
-- Applied Microeconomics in Economic History (Graduate) (Prof. R. Hornbeck) - Winter 2023
-- Environmental Economics III (Graduate) (Prof. M. Greenstone) - Winter 2022
-- Elements of Economic Analysis I Honors (Undergraduate) (Prof. V. Lima) - Fall 2021
+
+- Math Camp (Graduate, TA) - Fall 2023
+- Applied Microeconomics in Economic History (Graduate, TA) - Winter 2023
+- Elements of Economic Analysis I (Undergraduate, Lecturer) - Fall 2022
+- Environmental Economics III (Graduate, TA) - Winter 2022
+- Elements of Economic Analysis I Honors (Undergraduate, TA) - Fall 2021
+
+
+
+
+
