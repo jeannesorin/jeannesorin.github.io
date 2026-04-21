@@ -48,24 +48,6 @@ $\color{red}{\text{New version!}}$
 
 
 
-#### Learning is in the Air: Clean Air as an Experience Good 
-[AEA RCT Registry No. 0013110](https://www.socialscienceregistry.org/trials/13110)  
-with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo) and [Y. Sun](https://yixinsun.com/) - (August 2024)
-
-**Accepted**, Journal of Development Economics based on Pre-Results Review 
-##### [Registered Report](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf)
-
-<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract1')">Abstract</a>
-<div id="jobs-abstract1" style="display: none; margin-top: 10px;">
-    Despite the enormous costs of air pollution, willingness-to-pay (WTP) for clean air in polluted developing contexts remains low. We posit one understudied reason is that clean air is an experience good, whose value is revealed after consumption. We test this using a cluster-randomized trial, and seek to document an “experience wedge”, i.e. a difference between anticipated and realized utility of consuming a good. We deploy a novel experience-based intervention, installing air monitors and purifiers, potentially a more salient treatment than traditional information in pamphlets or videos. To explore the mechanisms behind the hypothesized wedge, we implement a purifier-only treatment to distinguish between (1) knowledge about objective pollution exposure and (2) the sensory experience of breathing in clean air. This will be the first experimental evidence demonstrating how experience can shift demand for clean air, with implications for public health policy, environmental awareness campaigns, and using WTP estimates in economic evaluations.
-</div> 
-
-<div style="margin-top: 60px;"></div>
-
-
-
-
-
 
 #### [High Indoor Air Pollution in a Developing Megacity: The Role of Outdoor PM2.5 and Household Characteristics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5321574)
 with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut), 
@@ -89,6 +71,25 @@ Coverage: [East Asia Forum](https://eastasiaforum.org/2025/09/15/jakartas-air-po
 
 
 <div style="margin-top: 60px;"></div>
+
+
+
+
+#### Learning is in the Air: Clean Air as an Experience Good 
+[AEA RCT Registry No. 0013110](https://www.socialscienceregistry.org/trials/13110)  
+with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo) and [Y. Sun](https://yixinsun.com/) - (August 2024)
+
+**Accepted**, Journal of Development Economics based on Pre-Results Review 
+##### [Registered Report](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf)
+
+<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract1')">Abstract</a>
+<div id="jobs-abstract1" style="display: none; margin-top: 10px;">
+    Despite the enormous costs of air pollution, willingness-to-pay (WTP) for clean air in polluted developing contexts remains low. We posit one understudied reason is that clean air is an experience good, whose value is revealed after consumption. We test this using a cluster-randomized trial, and seek to document an “experience wedge”, i.e. a difference between anticipated and realized utility of consuming a good. We deploy a novel experience-based intervention, installing air monitors and purifiers, potentially a more salient treatment than traditional information in pamphlets or videos. To explore the mechanisms behind the hypothesized wedge, we implement a purifier-only treatment to distinguish between (1) knowledge about objective pollution exposure and (2) the sensory experience of breathing in clean air. This will be the first experimental evidence demonstrating how experience can shift demand for clean air, with implications for public health policy, environmental awareness campaigns, and using WTP estimates in economic evaluations.
+</div> 
+
+<div style="margin-top: 60px;"></div>
+
+
 
 
 # Works in Progress
