@@ -42,7 +42,7 @@ N. Lozano Gracia and
 
 Coverage: [IGC (Policy Brief)](https://www.theigc.org/publications/exposure-air-pollution-small-firms-african-cities), [Voxdev](https://voxdev.org/topic/energy-environment/workers-african-cities-are-extremely-exposed-air-pollution)
 
-\textcolor{red}{New version!}
+$\color{red}{\text{New version!}}$
 
 <div style="margin-top: 80px;"></div>
 
