@@ -12,7 +12,7 @@ nav: true
 # Working Papers
 
 
-#### [Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda (JMP)](/assets/pdf/Sorin_JMP.pdf) 
+#### [Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda](/assets/pdf/Sorin_JMP.pdf) 
 
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract5')">Abstract</a>
 <div id="jobs-abstract5" style="display: none; margin-top: 10px;">
@@ -25,6 +25,27 @@ Recipient of the [European Economic Association 2025 Young Economist Award](http
 
 
 <div style="margin-top: 60px;"></div>
+
+
+
+#### [Jobs in the Smog: Firm Location and Workers’ Exposure to Pollution in African Cities](/assets/pdf/JobsInTheSmog.pdf) 
+with [V. Bassi](http://www.vittoriobassi.com/), 
+[M. Kahn](https://sites.google.com/site/mek1966/), 
+N. Lozano Gracia and 
+[T. Porzio](https://sites.google.com/view/tommaso-porzio/home) 
+
+<!-- Abstract feature -->
+<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract2')">Abstract</a>
+<div id="jobs-abstract2" style="display: none; margin-top: 10px;">
+    We show that the organization of production prevalent in Ugandan cities increases workers’ exposure to urban pollution. Using new granular spatial data on air pollution and manufacturing firms, we document that small firms cluster along the busiest and most polluted roads because road traffic bundles air pollution with customer access. Even within neighborhoods, cleaner areas exist, yet jobs are in the smog. A spatial equilibrium model rationalizes these patterns, with firms capturing sizable profit gains from polluted locations while workers receive limited compensation for the exposure. Our results imply that the welfare costs of urban air pollution in developing-country cities may be substantially larger than city-level averages suggest.
+</div> 
+
+Coverage: [IGC (Policy Brief)](https://www.theigc.org/publications/exposure-air-pollution-small-firms-african-cities), [Voxdev](https://voxdev.org/topic/energy-environment/workers-african-cities-are-extremely-exposed-air-pollution)
+
+\textcolor{red}{New version!}
+
+<div style="margin-top: 80px;"></div>
+
 
 
 #### Learning is in the Air: Clean Air as an Experience Good 
@@ -41,25 +62,6 @@ with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosud
 
 <div style="margin-top: 60px;"></div>
 
-
-
-#### [Jobs in the Smog: Firm Location and Workers’ Exposure to Pollution in African Cities](/assets/pdf/JobsInTheSmog.pdf) 
-with [V. Bassi](http://www.vittoriobassi.com/), 
-[M. Kahn](https://sites.google.com/site/mek1966/), 
-N. Lozano Gracia and 
-[T. Porzio](https://sites.google.com/view/tommaso-porzio/home) 
-
-<!-- Abstract feature -->
-<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract2')">Abstract</a>
-<div id="jobs-abstract2" style="display: none; margin-top: 10px;">
-    Air pollution within African cities is high but unevenly distributed. In principle, individuals could mitigate the severe health risk by working in the less polluted parts of the city. In practice, we show that pollution avoidance is challenging because firms locate on the busiest and most polluted roads searching for customer visibility. Both workers and entrepreneurs bear the cost of this pollution exposure, but the benefits are unequally distributed: profits are much higher in polluted areas, while compensating differentials in wages are minimal. An information experiment reveals limited awareness of pollution, suggesting that workers might be undercompensated for their exposure.
-</div> 
-
-Coverage: [IGC (Policy Brief)](https://www.theigc.org/publications/exposure-air-pollution-small-firms-african-cities), [Voxdev](https://voxdev.org/topic/energy-environment/workers-african-cities-are-extremely-exposed-air-pollution)
-
-Updated version coming soon!
-
-<div style="margin-top: 80px;"></div>
 
 
 
