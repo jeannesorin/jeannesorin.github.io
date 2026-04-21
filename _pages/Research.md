@@ -32,7 +32,7 @@ Recipient of the [European Economic Association 2025 Young Economist Award](http
 with [V. Bassi](http://www.vittoriobassi.com/), 
 [M. Kahn](https://sites.google.com/site/mek1966/), 
 N. Lozano Gracia and 
-[T. Porzio](https://sites.google.com/view/tommaso-porzio/home) 
+[T. Porzio](https://sites.google.com/view/tommaso-porzio/home) -- <span style="color:red">New version - April 2026!</span>
 
 <!-- Abstract feature -->
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract2')">Abstract</a>
@@ -42,7 +42,7 @@ N. Lozano Gracia and
 
 Coverage: [IGC (Policy Brief)](https://www.theigc.org/publications/exposure-air-pollution-small-firms-african-cities), [Voxdev](https://voxdev.org/topic/energy-environment/workers-african-cities-are-extremely-exposed-air-pollution)
 
-$\color{red}{\text{New version - April 2026!}}$
+
 
 <div style="margin-top: 80px;"></div>
 
