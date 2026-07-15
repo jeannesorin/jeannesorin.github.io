@@ -24,3 +24,5 @@ I was previously a postdoctoral scholar at [the Institute for Climate and Sustai
 I study the challenges faced by developing cities, focusing on transportation infrastructure and environmental hazards. To that end, I use quantitative spatial models, novel survey data and randomized control trials in order to answer policy-relevant questions. My current projects span Uganda, Indonesia, India and (historical) France.
 
 You can download my CV [here](/assets/pdf/Jeanne_Sorin_CV.pdf).
+
+You can reach out to me at jsorin at uchicago.edu or, while my email is getting transferred to UCB, at legueveljs at gmail.com
