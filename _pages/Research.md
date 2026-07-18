@@ -55,7 +55,7 @@ with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut),
 [D. Suryadarma](https://sites.google.com/view/dsuryadarma/home) and
 [Y. Sun](https://yixinsun.com/research/)
 
-**Revise and Resubmit** at **Proceedings of the National Academy of Sciences (PNAS)**
+**Revise and Resubmit** (2nd round) at **Proceedings of the National Academy of Sciences (PNAS)**
 
 [ADBI Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5321574)
 
