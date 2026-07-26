@@ -13,7 +13,7 @@ nav: true
 
 
 #### [Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda](/assets/pdf/Sorin_RoadsLand.pdf) 
-
+ -- Updated July 2026.
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract5')">Abstract</a>
 <div id="jobs-abstract5" style="display: none; margin-top: 10px;">
     Cities in low-income countries need large investments in road infrastructure. Yet evidence on whether they pay off is limited, in part because the cost of the land they require is hard to measure and routinely ignored. I exploit the timing of the upgrades to estimate the local benefits of 114 km of donor-funded road improvements in Kampala, Uganda (2018–2026), which I embed in a general-equilibriumquantitative spatial model. I collect two new surveys of real-estate brokers and landowners and show that the land-acquisition costs could have amounted to 40% of the project budget under compensation at the legal market rate. As payments for land must be raised from scarce domestic public funds featuring a fiscal wedge, they carry a deadweight loss and paying all owners at market rate would have sharply reduced the otherwise substantial net welfare gains from the improvements. The wedge is highest where roads help most and therefore distorts where it is optimal to build: under market-value compensation the welfare-maximizing program captures only 70% of the first-best gains attainable without paying owners. The misallocation can be mitigated by donor financing of land or alternative compensation like the claim-based rule adopted for most of the studied improvements, under which the probability of compensation varies across the city’s three coexisting land-tenure regimes, recovers 89% of those gains. The broader lesson is one of the second best: requiring full compensation to protect owners need not raise welfare when public funds are scarce, with direct implications for how road investments in fast-growing cities are designed, funded, and evaluated.
@@ -32,7 +32,7 @@ Recipient of the [European Economic Association 2025 Young Economist Award](http
 with [V. Bassi](http://www.vittoriobassi.com/), 
 [M. Kahn](https://sites.google.com/site/mek1966/), 
 N. Lozano Gracia and 
-[T. Porzio](https://sites.google.com/view/tommaso-porzio/home) -- <span style="color:red">New version - April 2026!</span>
+[T. Porzio](https://sites.google.com/view/tommaso-porzio/home) -- Updated April 2026.
 
 <!-- Abstract feature -->
 <a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract2')">Abstract</a>
