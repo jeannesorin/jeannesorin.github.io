@@ -111,8 +111,7 @@ with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosud
 
 
 #### Pollution Under-Controlled: Measuring Compliance on Vehicle Emission Testing in Delhi
-with Anant Sudarshan and Michael Greenstone
-
+with Anant Sudarshan 
 Coverage: [EPIC](https://epic.uchicago.in/project/pollution-under-control-certificates-pucc/)
 
 
