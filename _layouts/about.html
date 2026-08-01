@@ -2,71 +2,78 @@
 layout: default
 ---
 
-<div class="post">
+<article class="about">
 
-  <header class="post-header">
-    <h1 class="post-title">
-     {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}</span>{% else %}{{ site.title }}{% endif %}
-    </h1>
-     <p class="desc">{{ page.description }}</p>
+  <!-- Hero -->
+  <header class="hero">
+    <div class="hero-grid">
+      <div class="hero-text">
+        {% if page.kicker %}<p class="kicker">{{ page.kicker }}</p>{% endif %}
+        <h1 class="display">{% if site.title == "blank" %}{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}</h1>
+        {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+        {% if page.affiliation %}<p class="affil">{{ page.affiliation }}</p>{% endif %}
+      </div>
+
+      {% if page.profile and page.profile.image %}
+      <figure class="hero-figure">
+        <img src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}"
+             alt="{{ site.first_name }} {{ site.last_name }}">
+        {% if page.profile.address %}<figcaption>{{ page.profile.address }}</figcaption>{% endif %}
+      </figure>
+      {% endif %}
+    </div>
   </header>
 
-  
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QGKG8N06EB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-QGKG8N06EB');
-</script>
-
-  <article>
-
-    <!-- Profile image next to text -->
-    <div class="clearfix">
-      {% if page.profile %}
-        <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-          {% if page.profile.image %}
-            <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
-          {% endif %}
-          {% if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-          {% endif %}
-        </div>
-      {% endif %}
-
-      <!-- Main content -->
-      <div class="main-content">
+  <!-- About -->
+  <section class="band" id="about">
+    <div class="band-grid">
+      <h2 class="band-label">About</h2>
+      <div class="band-body">
         {{ content }}
       </div>
     </div>
+  </section>
 
-    {% if page.news %}
-      {% include news.html %}
-    {% endif %}
-
-    {% if page.selected_papers %}
-      {% include selected_papers.html %}
-    {% endif %}
-
-    {% if page.social %}
-    <div class="social">
-      <div class="contact-icons">
-        {% include social.html %}
+  <!-- CV -->
+  <section class="band" id="cv">
+    <div class="band-grid">
+      <h2 class="band-label">CV</h2>
+      <div class="band-body">
+        <div class="cv-band">
+          <a class="cta" href="{{ '/assets/pdf/Jeanne_Sorin_CV.pdf' | relative_url }}">Download my CV (PDF)</a>
+          <span class="sep"></span>
+          <span class="em"><a href="mailto:{{ site.email | encode_email }}">{{ site.email }}</a></span>
+        </div>
       </div>
-      <div class="contact-note">{{ site.contact_note }}</div>
     </div>
-    {% endif %}
-  </article>
+  </section>
 
-</div>
+  <!-- Research (single source of truth, shared with /Research/) -->
+  {% include research_list.html %}
 
-<!-- Bottom Image Full Width -->
+  <!-- Contact -->
+  <section class="band" id="contact">
+    <div class="band-grid">
+      <h2 class="band-label">Contact</h2>
+      <div class="band-body">
+        {{ site.contact_note }}
+      </div>
+    </div>
+  </section>
+
+  {% if page.news %}{% include news.html %}{% endif %}
+  {% if page.selected_papers %}{% include selected_papers.html %}{% endif %}
+
+  {% if page.social %}
+  <div class="social">
+    <div class="contact-icons">{% include social.html %}</div>
+  </div>
+  {% endif %}
+
+</article>
+
+<!-- Closing image -->
 <div class="full-width-image">
-  <img src="/assets/img/kampala_roads_kcca.jpg" alt="Bottom Image" class="full-width-img">
+  <img src="{{ '/assets/img/kampala_roads_kcca.jpg' | relative_url }}" alt="Road works in Kampala, Uganda" class="full-width-img">
   <figcaption class="image-legend">Source: Kampala Capital City Authority.</figcaption>
 </div>

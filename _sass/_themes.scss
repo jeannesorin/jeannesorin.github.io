@@ -1,47 +1,50 @@
 /*******************************************************************************
  * Themes
+ *
+ * Light and dark palettes, both built on UC Berkeley's brand colors:
+ * Berkeley Blue #003262 · California Gold #FDB515 · Founder's Rock #3B7EA1
  ******************************************************************************/
- 
-:root {
-  --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
-  --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$white-color};
-  --global-distill-app-color: #{$grey-color};
 
-  .fa-sun {
-    display : none;
-  }
-  .fa-moon {
-    padding-left: 10px;
-    padding-top: 12px;
-    display : block;
-  }
+:root {
+  --global-bg-color: #{$paper-color};
+  --global-bg-alt-color: #{$paper-alt-color};
+  --global-code-bg-color: #{$code-bg-color-light};
+  --global-text-color: #{$ink-color};
+  --global-text-color-light: #{$pacific};
+  --global-text-color-faint: #{$ink-faint-color};
+  --global-rule-color: #{$rule-color};
+  --global-theme-color: #{$berkeley-blue};
+  --global-hover-color: #{$founders-rock};
+  --global-gold-color: #{$california-gold};
+  --global-gold-text-color: #{$berkeley-blue};
+  --global-badge-text-color: #{$white-color};
+  --global-footer-bg-color: #{$paper-color};
+  --global-footer-text-color: #{$ink-faint-color};
+  --global-footer-link-color: #{$pacific};
+  --global-distill-app-color: #{$pacific};
+
+  .fa-sun { display: none; }
+  .fa-moon { padding-left: 10px; padding-top: 12px; display: block; }
 }
 
 html[data-theme='dark'] {
-  --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #{$paper-color-dk};
+  --global-bg-alt-color: #{$paper-alt-color-dk};
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
-  --global-footer-link-color: #{$black-color};
-  --global-distill-app-color: #{$grey-color-light};
+  --global-text-color: #{$ink-color-dk};
+  --global-text-color-light: #{$ink-soft-color-dk};
+  --global-text-color-faint: #{$ink-faint-color-dk};
+  --global-rule-color: #{$rule-color-dk};
+  --global-theme-color: #{$blue-light-dk};
+  --global-hover-color: #{$blue-lighter-dk};
+  --global-gold-color: #{$california-gold};
+  --global-gold-text-color: #1A1204;
+  --global-badge-text-color: #{$paper-color-dk};
+  --global-footer-bg-color: #{$paper-color-dk};
+  --global-footer-text-color: #{$ink-faint-color-dk};
+  --global-footer-link-color: #{$ink-soft-color-dk};
+  --global-distill-app-color: #{$ink-soft-color-dk};
 
-  .fa-sun {
-    padding-left: 10px;
-    padding-top: 12px;
-    display : block;
-  }
-  .fa-moon {
-    display : none;
-  }
+  .fa-sun { padding-left: 10px; padding-top: 12px; display: block; }
+  .fa-moon { display: none; }
 }

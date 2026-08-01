@@ -35,3 +35,37 @@ $black-color: #000000 !default;
 
 $code-bg-color-light:     rgba($white-color, 0.05);
 $code-bg-color-dark:      rgba($white-color, 0.05);
+
+
+// -----------------------------------------------------------------------------
+// Site design tokens — UC Berkeley palette
+// https://brand.berkeley.edu/colors/
+// -----------------------------------------------------------------------------
+
+$berkeley-blue:     #003262 !default;   // primary
+$california-gold:   #FDB515 !default;   // primary
+$founders-rock:     #3B7EA1 !default;   // secondary blue
+$pacific:           #46535E !default;   // secondary slate
+$bay-fog:           #DDD5C7 !default;   // secondary warm grey
+$stone-pine:        #584F29 !default;
+
+// Light surfaces
+$paper-color:       #FDFCFA !default;
+$paper-alt-color:   #F1EEE7 !default;   // Bay Fog, lightened
+$rule-color:        #E2DED6 !default;
+$ink-color:         #15181C !default;
+$ink-faint-color:   #8A9099 !default;
+
+// Dark surfaces
+$paper-color-dk:     #0E1319 !default;
+$paper-alt-color-dk: #152029 !default;
+$rule-color-dk:      #22303B !default;
+$ink-color-dk:       #EDF1F4 !default;
+$ink-soft-color-dk:  #A8B4BE !default;
+$ink-faint-color-dk: #7B858F !default;
+$blue-light-dk:      #7FB2D4 !default;
+$blue-lighter-dk:    #9CCBE4 !default;
+
+// Type stacks
+$font-sans:  Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !default;
+$font-serif: Newsreader, "Source Serif 4", "Iowan Old Style", Georgia, serif !default;

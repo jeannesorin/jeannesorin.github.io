@@ -3,7 +3,6 @@
  ******************************************************************************/
 
  body {
-  font-family: 'Times New Roman', Times, serif !important;
    padding-bottom: 70px;
    color: var(--global-text-color);
    background-color: var(--global-bg-color);
@@ -79,31 +78,3 @@
 *****************************************************************************/
 
 // TODO: redefine projects layout.
-
-
-
-#jobs-abstract1 {
-  display: none;
-  transition: max-height 0.3s ease-out;
-  overflow: hidden;
-}
-#jobs-abstract2 {
-  display: none;
-  transition: max-height 0.3s ease-out;
-  overflow: hidden;
-}
-#jobs-abstract3 {
-  display: none;
-  transition: max-height 0.3s ease-out;
-  overflow: hidden;
-}
-#jobs-abstract {
-  display: none;
-  transition: max-height 0.3s ease-out;
-  overflow: hidden;
-}
-#jobs-abstract4 {
-  display: none;
-  transition: max-height 0.3s ease-out;
-  overflow: hidden;
-}

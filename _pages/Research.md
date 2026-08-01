@@ -2,127 +2,26 @@
 layout: page
 permalink: /Research/
 title: Research
-description: 
+description: Transportation infrastructure and environmental hazards in developing cities — Uganda, Indonesia, India and (historical) France.
 nav: true
+nav_order: 1
 ---
 
+{% include research_list.html %}
 
-<div style="margin-top: 60px;"></div>
-
-# Working Papers
-
-
-#### [Public Roads on Private Lands: Land Costs and Optimal Road Improvements in Urban Uganda](/assets/pdf/Sorin_RoadsLand.pdf) 
- -- Updated July 2026.
- 
-<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract5')">Abstract</a>
-<div id="jobs-abstract5" style="display: none; margin-top: 10px;">
-    Cities in low-income countries need large investments in road infrastructure. Yet evidence on whether they pay off is limited, in part because the cost of the land they require is hard to measure and routinely ignored. I exploit the timing of the upgrades to estimate the local benefits of 114 km of donor-funded road improvements in Kampala, Uganda (2018–2026), which I embed in a general-equilibriumquantitative spatial model. I collect two new surveys of real-estate brokers and landowners and show that the land-acquisition costs could have amounted to 40% of the project budget under compensation at the legal market rate. As payments for land must be raised from scarce domestic public funds featuring a fiscal wedge, they carry a deadweight loss and paying all owners at market rate would have sharply reduced the otherwise substantial net welfare gains from the improvements. The wedge is highest where roads help most and therefore distorts where it is optimal to build: under market-value compensation the welfare-maximizing program captures only 70% of the first-best gains attainable without paying owners. The misallocation can be mitigated by donor financing of land or alternative compensation like the claim-based rule adopted for most of the studied improvements, under which the probability of compensation varies across the city’s three coexisting land-tenure regimes, recovers 89% of those gains. The broader lesson is one of the second best: requiring full compensation to protect owners need not raise welfare when public funds are scarce, with direct implications for how road investments in fast-growing cities are designed, funded, and evaluated.
-</div> 
-
-Coverage: [IGC Policy Brief](https://www.theigc.org/publications/land-costs-and-citywide-benefits-road-improvements-sub-saharan-african-city-evidence).
-
-Recipient of the [European Economic Association 2025 Young Economist Award](https://www.eeassoc.org/awards/young-economist-award).
-
-
-<div style="margin-top: 60px;"></div>
-
-
-
-#### [Jobs in the Smog: Firm Location and Workers’ Exposure to Pollution in African Cities](/assets/pdf/JobsInTheSmog.pdf) 
-with [V. Bassi](http://www.vittoriobassi.com/), 
-[M. Kahn](https://sites.google.com/site/mek1966/), 
-N. Lozano Gracia and 
-[T. Porzio](https://sites.google.com/view/tommaso-porzio/home) -- Updated April 2026.
-
-<!-- Abstract feature -->
-<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract2')">Abstract</a>
-<div id="jobs-abstract2" style="display: none; margin-top: 10px;">
-    We show that the organization of production prevalent in Ugandan cities increases workers’ exposure to urban pollution. Using new granular spatial data on air pollution and manufacturing firms, we document that small firms cluster along the busiest and most polluted roads because road traffic bundles air pollution with customer access. Even within neighborhoods, cleaner areas exist, yet jobs are in the smog. A spatial equilibrium model rationalizes these patterns, with firms capturing sizable profit gains from polluted locations while workers receive limited compensation for the exposure. Our results imply that the welfare costs of urban air pollution in developing-country cities may be substantially larger than city-level averages suggest.
-</div> 
-
-Coverage: [IGC (Policy Brief)](https://www.theigc.org/publications/exposure-air-pollution-small-firms-african-cities), [Voxdev](https://voxdev.org/topic/energy-environment/workers-african-cities-are-extremely-exposed-air-pollution)
-
-
-
-<div style="margin-top: 80px;"></div>
-
-
-
-
-#### [High Indoor Air Pollution in a Developing Megacity: The Role of Outdoor PM2.5 and Household Characteristics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5321574)
-with [D. Rahut](https://www.adb.org/adbi/about/staff-profiles/dil-rahut), 
-[B. P. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo),
-[D. Suryadarma](https://sites.google.com/view/dsuryadarma/home) and
-[Y. Sun](https://yixinsun.com/research/)
-
-**Revise and Resubmit** (2nd round) at **Proceedings of the National Academy of Sciences (PNAS)**
-
-[ADBI Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5321574)
-
-[Poster](/assets/pdf/JakartaIndoorOutdoor_pm.pdf)  
- 
-<!-- Abstract feature -->
-<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract3')">Abstract</a>
-<div id="jobs-abstract3" style="display: none; margin-top: 10px;">
-    Exposure to fine particulate matter (PM2.5) poses major health risks, especially in rapidly urbanizing cities. As urbanization accelerates, people in low- and middle-income countries spend more time indoors, where pol We present evidence from over 152,000 monitor-hours of indoor PM2.5 measurements across homes in Jakarta, Indonesia, one of the world’s largest and most polluted cities. We find that mean daily indoor and outdoor PM2.5 levels are both dangerously high, eight times above World Health Organization’s (WHO) health-based guidelines. In addition, indoor PM2.5 frequently reach hazardous levels—40 to 100 times the WHO guideline, levels that outdoor monitors do not capture. Unlike in developed settings, most indoor pollution originates from outdoor infiltration. Survey data also reveal large inequalities: lower-income households experience double the mean indoor PM2.5 of higher-income households. Our findings show that indoor air pollution remains both severe and unequally distributed, even in this population where most people have adopted cleaner cooking fuels. Researchers and policymakers should integrate outdoor air quality mapping with demographically representative indoor monitoring to close key data gaps, enabling more accurate exposure estimates and better-targeted environmental health policies.
-</div> 
-
-Coverage: [East Asia Forum](https://eastasiaforum.org/2025/09/15/jakartas-air-pollution-crisis-invades-homes/)
-
-
-<div style="margin-top: 60px;"></div>
-
-
-
-
-#### Learning is in the Air: Clean Air as an Experience Good 
-[AEA RCT Registry No. 0013110](https://www.socialscienceregistry.org/trials/13110)  
-with [B. Resosudarmo](https://crawford.anu.edu.au/people/academic/budy-p-resosudarmo) and [Y. Sun](https://yixinsun.com/) - (August 2024)
-
-**Accepted**, Journal of Development Economics based on Pre-Results Review 
-##### [Registered Report](https://afosterri.org/jdepreresults/wp-content/uploads/2024/08/resosudarmo-sorin-sun-learning-is-in-the-air-DEVEC-D-24-00423_R1-2be617642c32d437f96c0ad16c525fb3.pdf)
-
-<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract1')">Abstract</a>
-<div id="jobs-abstract1" style="display: none; margin-top: 10px;">
-    Despite the enormous costs of air pollution, willingness-to-pay (WTP) for clean air in polluted developing contexts remains low. We posit one understudied reason is that clean air is an experience good, whose value is revealed after consumption. We test this using a cluster-randomized trial, and seek to document an “experience wedge”, i.e. a difference between anticipated and realized utility of consuming a good. We deploy a novel experience-based intervention, installing air monitors and purifiers, potentially a more salient treatment than traditional information in pamphlets or videos. To explore the mechanisms behind the hypothesized wedge, we implement a purifier-only treatment to distinguish between (1) knowledge about objective pollution exposure and (2) the sensory experience of breathing in clean air. This will be the first experimental evidence demonstrating how experience can shift demand for clean air, with implications for public health policy, environmental awareness campaigns, and using WTP estimates in economic evaluations.
-</div> 
-
-<div style="margin-top: 60px;"></div>
-
-
-
-
-# Works in Progress
-
-
-
-
-#### French Railroad Shrinkage 
-
-<!-- Abstract feature -->
-<a href="javascript:void(0);" onclick="toggleAbstract('jobs-abstract4')">Abstract</a>
-<div id="jobs-abstract4" style="display: none; margin-top: 10px;">
-    Transportation infrastructure determines a location's accessibility and, in turn, is a key driver of demographic and economic distributions across space. Investments and dis-investments in this infrastructure are common, but the impacts of contractionary transportation policies have not been extensively studied. Using a simple modification of the standard quantitative spatial model, I theorize that while positive accessibility changes to a location result in rapid population adjustment, negative changes may create a slow and asymmetric population adjustment due to the presence of slowly depreciating housing capital. This paper provides empirical support for the existence of these non-linear responses by studying the impact of the closure of more than one half of the French railroad between 1930 and 1960. I find that, within a given county, municipalities hit one-standard deviation harder by the policy had a 7 percent lower population growth between 1926 and 1982. This response is slow, strongest between two and four decades after the policy, and is non-linear in the short run: it is systematically lower when estimated on market access decrease than it is for (relative) market access increase.
-</div> 
-
-<div style="margin-top: 80px;"></div>
-
-
-
-#### Pollution Under-Controlled: Measuring Compliance on Vehicle Emission Testing in Delhi
-with Anant Sudarshan 
-Coverage: [EPIC](https://epic.uchicago.in/project/pollution-under-control-certificates-pucc/)
-
-
-# Other Policy Writings
-
-#### [Urbanisation, transport and the environment: Some considerations for a more productive Kampala](https://www.theigc.org/publications/urbanisation-transport-and-environment-some-considerations-more-productive-kampala)
-(with Juliana Oliveira-Cunha), IGC Policy Brief UGA-24185
-
-
-# Retired Projects
-
-### [Reading about Flood Risk in the News, Evidence from the Housing Market](https://www.sciencespo.fr/ecole-doctorale/sites/sciencespo.fr.ecole-doctorale/files/MastersThesis_JeanneSorin.pdf)
-Prize: Best Master Thesis in Economics (2018/2019) - Sciences Po Paris
-
+<section class="band" id="retired">
+  <div class="band-grid">
+    <h2 class="band-label">Retired projects</h2>
+    <div class="band-body">
+      <ul class="rows">
+        <li>
+          <span class="k">France</span>
+          <span class="v">
+            <a href="https://www.sciencespo.fr/ecole-doctorale/sites/sciencespo.fr.ecole-doctorale/files/MastersThesis_JeanneSorin.pdf">Reading about Flood Risk in the News: Evidence from the Housing Market</a>
+            <span>Best Master Thesis in Economics (2018/2019), Sciences Po Paris</span>
+          </span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
