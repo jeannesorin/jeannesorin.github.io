@@ -12,7 +12,7 @@ nav_order: 3
     <h2 class="band-label">Curriculum vitae</h2>
     <div class="band-body">
       <div class="cv-band">
-        <a class="cta" href="/assets/pdf/Jeanne_Sorin_CV.pdf">Download my CV (PDF)</a>
+        <a class="cta" href="/assets/pdf/Jeanne_Sorin_CV.pdf">Download my CV</a>
         <span class="sep"></span>
         <span class="em"><a href="mailto:{{ site.email | encode_email }}">{{ site.email }}</a></span>
       </div>

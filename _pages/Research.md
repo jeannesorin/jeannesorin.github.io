@@ -2,7 +2,7 @@
 layout: page
 permalink: /Research/
 title: Research
-description: Transportation infrastructure and environmental hazards in developing cities — Uganda, Indonesia, India and (historical) France.
+description:
 nav: true
 nav_order: 1
 ---

@@ -342,22 +342,34 @@ ul.rows {
 .cv-band {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
-  gap: 0.9rem 1.6rem;
-  background: var(--global-bg-alt-color);
-  border-left: 3px solid var(--global-gold-color);
-  padding: 1.15rem 1.4rem;
-  border-radius: 2px;
+  align-items: baseline;
+  gap: 0.4rem 1rem;
 
   .cta {
     font-family: $font-serif;
-    font-size: 1.16rem;
+    font-size: 1.24rem;
     color: var(--global-theme-color);
-    &::after { content: " \2193"; font-size: 0.9rem; }
-    &:hover { color: var(--global-hover-color); text-decoration: none; }
+    &::after {
+      content: " \2193";
+      font-size: 0.82rem;
+      opacity: 0.55;
+    }
+    &:hover {
+      color: var(--global-hover-color);
+      text-decoration: underline;
+      text-underline-offset: 4px;
+    }
   }
 
-  .sep { width: 1px; height: 22px; background: var(--global-rule-color); }
+  /* thin middot instead of the old boxed divider */
+  .sep {
+    width: auto;
+    height: auto;
+    background: none;
+    color: var(--global-text-color-faint);
+    &::before { content: "\00B7"; }
+  }
+
   .em { font-size: 0.92rem; color: var(--global-text-color-light); }
 }
 

@@ -5,7 +5,6 @@ permalink: /
 description:
 
 kicker: Development · Urban · Environmental Economics
-lede: I am an economist studying challenges faced by developing cities and urban residents, with a focus on transportation, infrastructure and environmental hazards.
 affiliation: <strong>Assistant Professor</strong> · Goldman School of Public Policy, University of California, Berkeley
 
 profile:
