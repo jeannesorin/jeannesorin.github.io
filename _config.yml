@@ -63,9 +63,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
 contact_note: >
-  You can reach me at <a href="mailto:jsorin@uchicago.edu">jsorin@uchicago.edu</a> or,
-  while my email is getting transferred to UC Berkeley, at
-  <a href="mailto:legueveljs@gmail.com">legueveljs@gmail.com</a>.
+  You can reach me at <a href="mailto:jsorin@berkeley.edu">jsorin@berkeley.edu</a>.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -75,7 +73,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: JeanneSorin  # your blog must have a name for it to show up in the nav bar
-blog_description: Jeanne Sorin - PhD Candidate in Economics
+blog_description: Jeanne Sorin - Assistant Professor
 permalink: /blog/:year/:title/
 
 # Pagination
