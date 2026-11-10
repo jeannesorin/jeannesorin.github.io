@@ -17,7 +17,6 @@ nav_order: 2
           <span class="v"><a href="https://gspp.berkeley.edu/programs/course-information/spring-2027/special-topics-in-public-policy-6" target="_blank" rel="noopener">PUBPOL 290: Special Topics in Public Policy - The Global Climate and Energy Challenge</a><span>Graduate · Lecturer</span></span>        
           </li>
         <li>
-        https://gspp.berkeley.edu/programs/course-information/spring-2027/special-topics-in-public-policy-6
           <span class="k">Spring 2027</span>
   <span class="v"><a href="https://gspp.berkeley.edu/programs/course-information/spring-2027/international-poverty-and-economic-development-1" target="_blank" rel="noopener">DEVP 252: International Poverty and Economic Development</a><span>Graduate · Lecturer</span></span>
         </li>
